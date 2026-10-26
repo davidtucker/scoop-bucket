@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.2.0/envhaul_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.2.1/envhaul_0.2.1_windows_amd64.zip",
             "bin": [
                 "envhaul.exe"
             ],
-            "hash": "eeb06aabdf7e1ee035beb3530946260cf9078aa78b9a005c44b6d67269741d74"
+            "hash": "c24b0287c937f1c0dd3b089bfa4e04328d4d6d88a15e829cf6a0f72145c8d709"
         },
         "arm64": {
-            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.2.0/envhaul_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.2.1/envhaul_0.2.1_windows_arm64.zip",
             "bin": [
                 "envhaul.exe"
             ],
-            "hash": "c0173086610429e2d45d1f1a5463670d89f53c99b4fe5c1b970f02199969ddf0"
+            "hash": "2693ef72b494642a9f8e81a8a66a1e76ccb4924f6a0f9d67511a8d05dbb4bec9"
         }
     },
     "homepage": "https://davidtucker.github.io/envhaul",
