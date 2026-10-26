@@ -1,22 +1,22 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.1.0/envhaul_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.2.0/envhaul_0.2.0_windows_amd64.zip",
             "bin": [
                 "envhaul.exe"
             ],
-            "hash": "eb22ffa7bfb0897e08d81f2656d6f356fad04ea0bed84ed170e1079a0003887d"
+            "hash": "eeb06aabdf7e1ee035beb3530946260cf9078aa78b9a005c44b6d67269741d74"
         },
         "arm64": {
-            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.1.0/envhaul_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.2.0/envhaul_0.2.0_windows_arm64.zip",
             "bin": [
                 "envhaul.exe"
             ],
-            "hash": "99e53e4af85c9509c772ddcd9c0669479086eee655f742ca3e66aa1278170c3c"
+            "hash": "c0173086610429e2d45d1f1a5463670d89f53c99b4fe5c1b970f02199969ddf0"
         }
     },
     "homepage": "https://davidtucker.github.io/envhaul",
     "license": "Apache-2.0",
-    "description": "Haul config and secrets from AWS into .env files."
+    "description": "Haul config and secrets from AWS, Vault, 1Password, GCP and Azure into .env files."
 }
