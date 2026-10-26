@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.1.0/envhaul_0.1.0_windows_amd64.zip",
+            "bin": [
+                "envhaul.exe"
+            ],
+            "hash": "eb22ffa7bfb0897e08d81f2656d6f356fad04ea0bed84ed170e1079a0003887d"
+        },
+        "arm64": {
+            "url": "https://github.com/davidtucker/envhaul/releases/download/v0.1.0/envhaul_0.1.0_windows_arm64.zip",
+            "bin": [
+                "envhaul.exe"
+            ],
+            "hash": "99e53e4af85c9509c772ddcd9c0669479086eee655f742ca3e66aa1278170c3c"
+        }
+    },
+    "homepage": "https://davidtucker.github.io/envhaul",
+    "license": "Apache-2.0",
+    "description": "Haul config and secrets from AWS into .env files."
+}
